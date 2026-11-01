@@ -1,0 +1,11 @@
+on(release){
+   if(inGame)
+   {
+      gotoAndStop("high_Check");
+      play();
+   }
+   else
+   {
+      gotoAndStop("extras");
+   }
+}

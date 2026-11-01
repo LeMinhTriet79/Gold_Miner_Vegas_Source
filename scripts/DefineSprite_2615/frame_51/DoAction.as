@@ -1,0 +1,1 @@
+slotItemMov.gotoAndStop(1);

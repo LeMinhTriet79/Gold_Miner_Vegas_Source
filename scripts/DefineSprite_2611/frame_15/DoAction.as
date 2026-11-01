@@ -1,0 +1,1 @@
+slotItemMov.gotoAndPlay(10);

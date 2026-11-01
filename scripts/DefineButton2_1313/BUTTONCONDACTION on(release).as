@@ -1,0 +1,10 @@
+on(release){
+   if(inGame)
+   {
+      gotoAndStop("map");
+   }
+   else
+   {
+      gotoAndStop("extras");
+   }
+}

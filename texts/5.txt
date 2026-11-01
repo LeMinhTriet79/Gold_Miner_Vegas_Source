@@ -1,0 +1,51 @@
+Use your claw and reel to mine gold and other treasures out of the earth. Your 
+--- RECORDSEPARATOR ---
+claw will swing back and forth. Click the mouse button (or press the down arrow) 
+--- RECORDSEPARATOR ---
+to lower it. Once the claw has grabbed something, it will begin to reel it up. Heavy 
+--- RECORDSEPARATOR ---
+objects like rocks and large pieces of gold will be harder to reel up. Grab Bags 
+--- RECORDSEPARATOR ---
+contain random amounts of money, a strength power-up, or a stick of dynamite. 
+--- RECORDSEPARATOR ---
+Between levels you can buy items that can help you. 
+--- RECORDSEPARATOR ---
+Collect the target amount of money by the end of the level. You need to meet 
+--- RECORDSEPARATOR ---
+your goal by the end of the level to go on. If you are playing Story Mode, you can 
+--- RECORDSEPARATOR ---
+continue your game if you fail to pass a level. Your money carries over from one 
+--- RECORDSEPARATOR ---
+level to the next.
+--- RECORDSEPARATOR ---
+Playing through Story Mode will unlock Gold Rush Mode. Beating Hawaii in Story 
+--- RECORDSEPARATOR ---
+Mode unlocks Hansel. Beating Vegas in Story Mode unlocks Julie and Hard Mode. 
+--- RECORDSEPARATOR ---
+Beating Hard Story Mode unlocks Expert Mode.
+--- RECORDSEPARATOR ---
+OBJECTS:
+--- RECORDSEPARATOR ---
+Gold - The meaning of life! Get as much as you can! The bigger the nugget the 
+--- RECORDSEPARATOR ---
+more it's worth.
+--- RECORDSEPARATOR ---
+Rocks - Just plain rocks. Not worth much and very heavy. Can be blown up with 
+--- RECORDSEPARATOR ---
+dynamite.
+--- RECORDSEPARATOR ---
+Gold Pan - P'shaw. Real miners use Mining claws.
+--- RECORDSEPARATOR ---
+TNT - Grab this and blow up everything around it. This could be good or very, 
+--- RECORDSEPARATOR ---
+very bad.
+--- RECORDSEPARATOR ---
+Grab Bag - Mystery treasures! You could find money, explosives, or new mining 
+--- RECORDSEPARATOR ---
+gadgets!
+--- RECORDSEPARATOR ---
+Bones - Ex-people. They just get in the way.
+--- RECORDSEPARATOR ---
+Tasmanian Devil - Mean buggers. They'll destroy anything in their path if you 
+--- RECORDSEPARATOR ---
+don't catch them.

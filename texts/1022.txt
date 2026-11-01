@@ -1,0 +1,33 @@
+Art Director:
+--- RECORDSEPARATOR ---
+Joe Huang
+--- RECORDSEPARATOR ---
+Lead Artist:
+--- RECORDSEPARATOR ---
+Chris Wieber
+--- RECORDSEPARATOR ---
+Artist:
+--- RECORDSEPARATOR ---
+Wil Teran
+--- RECORDSEPARATOR ---
+Associate Producer:
+--- RECORDSEPARATOR ---
+Tom Jacobson
+--- RECORDSEPARATOR ---
+Shell Programming:
+--- RECORDSEPARATOR ---
+Tom Shirley
+--- RECORDSEPARATOR ---
+QA Lead:
+--- RECORDSEPARATOR ---
+David Kizzia
+--- RECORDSEPARATOR ---
+Legal:
+--- RECORDSEPARATOR ---
+Matt Fojut
+--- RECORDSEPARATOR ---
+Special Thanks:
+--- RECORDSEPARATOR ---
+Jeremy Rusnak, Joel Downs, 
+--- RECORDSEPARATOR ---
+Lex Friedman & Scott Terrell

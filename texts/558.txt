@@ -1,0 +1,3 @@
+Grab blue spirits only. After you grab one, another 
+--- RECORDSEPARATOR ---
+spirit will turn blue and their value will increase.

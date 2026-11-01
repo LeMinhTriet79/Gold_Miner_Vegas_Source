@@ -1,0 +1,2 @@
+gotoAndStop("goright");
+play();

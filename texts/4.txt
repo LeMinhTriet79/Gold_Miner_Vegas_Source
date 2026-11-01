@@ -1,0 +1,57 @@
+Bilby - Harmless li'l fellas, but may be found carrying diamonds. And they like to 
+--- RECORDSEPARATOR ---
+steal things with their wheelbarrows.
+--- RECORDSEPARATOR ---
+Fish - Yes, you can mine them too!
+--- RECORDSEPARATOR ---
+Treasure Chests - Grab Bags of the sea.
+--- RECORDSEPARATOR ---
+Water Mines - These are not the mines you're looking for! These metal things go 
+--- RECORDSEPARATOR ---
+boom.
+--- RECORDSEPARATOR ---
+Spiders - They won't hurt you...trust us. They're just really ugly.
+--- RECORDSEPARATOR ---
+Spirits - Some are good and some are bad. Pay attention and follow directions.
+--- RECORDSEPARATOR ---
+Lava Monsters - Your claw can handle the cool stuff, but when it heats up...don't 
+--- RECORDSEPARATOR ---
+touch!
+--- RECORDSEPARATOR ---
+Broken Walls - Why would you want to lift huge heavy walls?
+--- RECORDSEPARATOR ---
+Ants - Everything's bigger in Vegas! And they bite, too!
+--- RECORDSEPARATOR ---
+Dinner Plates - Skip the buffet - all the strength you need is right here!
+--- RECORDSEPARATOR ---
+Broken TVs - Why watch TV when there's gold to be mined? Not worth the time.
+--- RECORDSEPARATOR ---
+Soda Machine - Have you ever tried to lift one of these before?!
+--- RECORDSEPARATOR ---
+Slot Machines - These one-armed bandits can help you strike it rich...or waste 
+--- RECORDSEPARATOR ---
+your time.
+--- RECORDSEPARATOR ---
+Chairs - No time to sit around! Leave 'em be!
+--- RECORDSEPARATOR ---
+Live Wires - Sparks will give you a shocking experience.
+--- RECORDSEPARATOR ---
+TOOLS:
+--- RECORDSEPARATOR ---
+Stick of Dynamite - Can be used to blow up unwanted objects at the end of your 
+--- RECORDSEPARATOR ---
+line.
+--- RECORDSEPARATOR ---
+Spike Claw - Breaks through worthless objects to get to the good stuff.
+--- RECORDSEPARATOR ---
+Laser Claw - Take perfect aim with this laser pointer.
+--- RECORDSEPARATOR ---
+Super Claw - Reel in huge stuff with the strength of 16.4 miners!
+--- RECORDSEPARATOR ---
+CHARACTERS
+--- RECORDSEPARATOR ---
+Julie - Gold Miner's sweet niece. Let her find stuff for you!
+--- RECORDSEPARATOR ---
+Hansel - Gold Miner's rival. Catch him if you can.
+--- RECORDSEPARATOR ---
+Joey Joe Joe the Crook - Get him before he gets you!

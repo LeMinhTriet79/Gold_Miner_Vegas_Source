@@ -1,0 +1,1 @@
+Click on the track area to make the cart move.

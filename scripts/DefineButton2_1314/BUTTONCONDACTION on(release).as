@@ -1,0 +1,11 @@
+on(release){
+   if(inGame)
+   {
+      gotoAndStop("next");
+      play();
+   }
+   else
+   {
+      gotoAndStop("extras");
+   }
+}
